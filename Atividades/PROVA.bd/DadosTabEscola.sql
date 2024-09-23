@@ -1,19 +1,19 @@
 -- Inserindo dados na tabela TB_ALUNOS
+INSERT INTO TB_ALUNOS (nome) VALUES ('Caua Icaro');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Gustavo Henrique');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Isabelle Silva');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Isadora Braide');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Vitoria Ketlyn');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Victor Moura');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Livia');
+INSERT INTO TB_ALUNOS (nome) VALUES ('Eduarda de Queiroz');
 INSERT INTO TB_ALUNOS (nome) VALUES ('Ruth Rodrigues');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Maria Silveira');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Victor Gabriel');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Enzo Belmino');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Mirela Vale');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Marina Silva');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Ruan Rodrigues');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Geovanna da Rocha');
-INSERT INTO TB_ALUNOS (nome) VALUES ('Matheus Pereira');
 
 -- Inserindo dados na tabela TB_PROFESSOR
-INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Ricardo Taveira');
-INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Gerson Maciel');
-INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Lorena');
-INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Joao Potencia');
+INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Taveira');
+INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Tulio');
+INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Alexandre Feitosa');
+INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof(a). Nubelia');
 
 -- Inserindo dados na tabela TB_DISCIPLINA
 INSERT INTO TB_DISCIPLINA (nome) VALUES ('Banco de Dados');
